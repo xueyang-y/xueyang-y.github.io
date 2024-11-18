@@ -22,8 +22,8 @@ Hello! I am Xueyang Yan, a first-year Ph.D. student in the Department of Statist
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 Successfully passed Written Qualifying Exam.
+- *2024.08*: &nbsp;🎉🎉 Became a PhD student and joined NUS.
 
 # 📖 Educations
 - *2024.08 - present*, Ph.D. in Statistics, National University of Singapore (NUS), Singapore. 
@@ -36,9 +36,11 @@ Hello! I am Xueyang Yan, a first-year Ph.D. student in the Department of Statist
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor. 
-- *2021.09* Lorem ipsum dolor. 
+- *2019 - 2021*  Excellent Undergraduate Scholarship. 
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.05 - 2021.11*, Mailiang Technology Co., Ltd., China.
+
+
+
